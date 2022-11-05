@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Wampum",
+    "screenshot": "screenshot/screenshot.gif",
+    "variants": {
+      "glTF": "AnimatedMorphSphere.gltf",
+      "glTF-Binary": "AnimatedMorphSphere.glb"
+    }
+  },
+  {
+    "name": "AnimatedMorphSphere",
+    "screenshot": "screenshot/screenshot.gif",
+    "variants": {
+      "glTF": "AnimatedMorphSphere.gltf",
+      "glTF-Binary": "AnimatedMorphSphere.glb"
+    }
+  },
+  {
+    "name": "BarramundiFish",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "BarramundiFish.gltf",
+      "glTF-Binary": "BarramundiFish.glb",
+      "glTF-Draco": "BarramundiFish.gltf",
+      "glTF-pbrSpecularGlossiness": "BarramundiFish.gltf"
+    }
+  },
+  {
+    "name": "BrainStem",
+    "screenshot": "screenshot/screenshot.gif",
+    "variants": {
+      "glTF": "BrainStem.gltf",
+      "glTF-Binary": "BrainStem.glb",
+      "glTF-Draco": "BrainStem.gltf",
+      "glTF-Embedded": "BrainStem.gltf"
+    }
+  },
+  {
+    "name": "ClearcoatRing",
+    "screenshot" : "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "PBR - Metallic Roughness Alpha-blend.gltf"
+    }
+  },
+  {
+    "name": "DamagedHelmet",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "DamagedHelmet.gltf",
+      "glTF-Binary": "DamagedHelmet.glb",
+      "glTF-Embedded": "DamagedHelmet.gltf"
+    }
+  },
+  {
+    "name": "EnvironmentTest",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "EnvironmentTest.gltf",
+      "glTF-IBL": "EnvironmentTest.gltf"
+    }
+  },
+  {
+    "name": "MaterialsVariantsShoe",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "MaterialsVariantsShoe.gltf",
+      "glTF-Binary": "MaterialsVariantsShoe.glb"
+    }
+  },
+  {
+    "name": "MetalRoughSpheres",
+    "screenshot": "screenshot/screenshot.png",
+    "variants": {
+      "glTF": "MetalRoughSpheres.gltf",
+      "glTF-Binary": "MetalRoughSpheres.glb",
+      "glTF-Embedded": "MetalRoughSpheres.gltf"
+    }
+  },
+  {
+    "name": "WaterBottle SpecGlossVsMetalRough",
+    "screenshot": "screenshot/screenshot.jpg",
+    "variants": {
+      "glTF": "SpecGlossVsMetalRough.gltf",
+      "glTF-Binary": "SpecGlossVsMetalRough.glb"
+    }
+  }
+]
